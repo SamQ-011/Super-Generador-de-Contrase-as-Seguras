@@ -29,7 +29,7 @@ source env/bin/activate  # En Windows: env\Scripts\activate
 
 Uso
 Ejecuta el script desde la línea de comandos:
-python generador_contraseñas.py
+python contrasena.py
 Ingresa las opciones según se te soliciten:
 
 Longitud de la contraseña.
@@ -56,7 +56,7 @@ Estructura del Proyecto
 generador-de-contrasenas/
 
 │
-├── generador_contraseñas.py  # Script principal para generar contraseñas
+├── contrasena.py  # Script principal para generar contraseñas
 
 ├── README.md                 # Archivo de documentación
 
